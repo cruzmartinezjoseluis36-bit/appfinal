@@ -4,7 +4,7 @@ import re
 import math
 
 st.set_page_config(page_title="Detección de Registros Basura", layout="wide")
-st.title("📊 Sistema de Detección de Registros Basura (UPIICSA)")
+st.title("📊 Sistema de Detección de Registros Basura (COVID)")
 st.write("Versión Optimizada de Alto Rendimiento (Sin librerías pesadas)")
 
 # --- 1. LÓGICA MATEMÁTICA DEL ÁRBOL DE DECISIÓN (HECHO A MANO) ---
